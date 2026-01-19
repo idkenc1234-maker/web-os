@@ -8,3 +8,6 @@ My custom macOS setup: Electric blue background + purple hand-drawn computer doo
 4. Set wallpapers: Right-click PNGs > Set Desktop Picture.
 
 Enjoy the distraction-free web vibes! 🔥
+# requirements
+chromium
+mac
